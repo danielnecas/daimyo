@@ -100,3 +100,4 @@ Uživatel → Brainstorm → "shrň to" → PRD
 ## Licence
 
 MIT
+# daimyo
